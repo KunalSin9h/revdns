@@ -1,3 +1,5 @@
+<a href="https://safedep.io"><img src="https://github.com/user-attachments/assets/50a0ebad-6dc8-461c-b86f-b8cc89a89045" align="right" alt="Made at SafeDep badge" /></a>
+
 # revdns
 
 Bulk reverse DNS lookup for IP addresses using [advertools.reverse_dns_lookup](https://advertools.readthedocs.io/en/master/advertools.reverse_dns_lookup.html).
